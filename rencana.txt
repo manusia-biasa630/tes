@@ -1,2 +1,3 @@
 rencana 
-- mengingat kembali 
+- mengingat kembali gthub
+- mengingat kembali git 
