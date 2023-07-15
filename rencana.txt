@@ -3,3 +3,4 @@ rencana
 - mengingat kembali git 
 - tes menggunakan github
 - php 7
+- javascript
