@@ -4,3 +4,5 @@ rencana
 - tes menggunakan github
 - php 8
 - css
+- javascript
+
