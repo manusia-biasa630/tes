@@ -2,5 +2,7 @@ rencana
 - mengingat kembali gthub
 - mengingat kembali git 
 - tes menggunakan github
-- php 7
+- php 8
+- css
 - javascript
+
